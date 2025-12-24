@@ -1,0 +1,121 @@
+Here I drafted a classification of top ~50 verbs roughly in the order of their relevance in the history of the universe.
+
+Examples:
+THINGS (be, go) -> LIVING BEINGS (live) -> ANIMALS (feel, eat) -> VERY INTELLIGENT ANIMALS (think, love) -> HUMANS & AI (pay, write).
+--------------------------------------------------------------------------------------------------------------------------------
+1. UNIVERSE
+--------------------------------------------------------------------------------------------------------------------------------
+PASSIVE STATE
+- be
+
+PASSIVE RELATIONSHIP
+- have [something exists in relation to it]
+- need
+- contain
+
+BASIC PROCESS
+- do
+- can/able
+
+BASIC ACTIONS
+- get
+- bring
+- take
+- make
+- use
+- give
+- help
+
+BASIC MOVEMENT
+- go
+- come
+- return
+- arrive
+- leave
+
+--------------------------------------------------------------------------------------------------------------------------------
+2. LIVING BEINGS
+--------------------------------------------------------------------------------------------------------------------------------
+RESIDENCE
+- live (e.g. these bacteria live in the Pacific Ocean)
+
+--------------------------------------------------------------------------------------------------------------------------------
+3. ANIMALS
+--------------------------------------------------------------------------------------------------------------------------------
+PERCEPTION
+- feel (e.g. insects might be able to feel pain)
+
+BASIC MEMORY
+- forget (e.g. the fly forgot that it already hit that window)
+
+PREFERENCES
+- want
+- like
+
+TARGETED MOVEMENT
+- wait
+- find
+- try
+
+TARGETED NUTRIENT CONSUMPTION
+- drink
+- eat
+
+SLEEP ~700 million years ago
+- sleep
+
+SEEING ~570-520 million years ago
+- look [focus eyes but not necessarily register]
+- watch [focus eyes for a long amount of time]
+- see [register with eyes]
+- look [appearance] (e.g. human looks a bit like a chimp, you look young, it looks beautiful)
+- seem [quick logical model, usually involving vision] (e.g. the predator seems far enough to the animal, the boy seems kind)
+
+HEARING ~480 million years ago
+- listen [focus ears for a long amount of time]
+- hear [register with ears]
+
+BASIC POSITION
+- sit
+- stand
+
+--------------------------------------------------------------------------------------------------------------------------------
+4. HIGHLY INTELLIGENT ANIMALS
+--------------------------------------------------------------------------------------------------------------------------------
+ADVANCED INFORMATION PROCESSING
+- know [have certain information]
+- think [process in the brain]
+- understand [have a logical model]
+- learn [develop a logical model] (e.g. learned to go to sleep later)
+- study [develop logical models using a system] (e.g. the predator studied its prey's migration patterns)
+
+COMPLEX FEELINGS
+- love
+
+--------------------------------------------------------------------------------------------------------------------------------
+5. HUMANS & AI
+--------------------------------------------------------------------------------------------------------------------------------
+VERBAL & SIMILAR COMMUNICATION
+- say [provide a short piece of information using language]
+- tell [provide a long piece of information using language]
+- talk [exchange information using language]
+- speak [exchange information in real-time using language over voice]
+- ask [request someone to provide information] (e.g. can you ask him his name)
+- ask to [request someone to execute an action] (e.g. can you ask him to close the door)
+- answer [satisfy request for information]
+- call [give a name, use a name]
+- call [request someone to appear at current location]
+- meet [exchange information about each other]
+- recommend
+
+WRITTEN COMMUNICATION
+- write
+- read
+
+COMMERCE
+- work
+- buy
+- sell
+- pay
+- cost
+- order

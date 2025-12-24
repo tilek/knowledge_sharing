@@ -1,0 +1,125 @@
+I created this list to help myself and others find and evaluate people to collaborate with.
+
+
+1. People's abilities.
+
+1.1. Analytical skills
+
+- Build a good model based on given information
+  [Critical thinking and gaining new knowledge are considered to be a part of this.]
+- Identify key variables in a situation
+  (e.g. what are the key problems in a startup that is not meeting its goals)
+  
+1.2. Problem solving, ideation, creativity
+
+- Generate candidate actions based on context and goals effectively
+  (e.g. coming up with a good business idea, coming up with a good joke [includes problem-solving])
+  [If the actions are diverse and surprising it seems to be called creativity.]
+- Evaluate candidate actions
+  (e.g. estimating whether an idea will be good or a joke will be funny)
+
+1.3. Communication skills
+
+- Choose wording effectively
+- Communicate well during stressful situations
+- Convince people
+- Explain complex concepts simply
+- Explain thoughts well verbally
+- Explain thoughts well in writing
+- Present a compelling vision
+- Provide good personal development feedback
+- Tell a compelling story
+- Get people to like you
+
+1.4. Learning skills
+
+- Learn a new skill
+
+1.5. Productivity skills
+
+- Choose goals rationally
+- Make good decisions
+- Focus on a task
+- Focus on a long-term goal
+- Perform under pressure
+- Plan time
+- Work independently
+
+1.6. Resilience
+
+- Manage own mood during challenging events
+- Recover from challenging events
+- Gain extra motivation from challenging events
+
+1.7. Discipline
+
+- Complete unpleasant work to achieve set goals
+- Make stable progress
+- Meet commitments or inform otherwise
+
+1.8. Self-improvement skills
+
+- Building habits
+- Stopping habits
+- Improving themselves in general
+
+
+Variables that help measure the skills:
+- Speed
+- Independence from help
+- Intellectual/informational complexity of a situation
+- Dealing with a stressful situation
+
+
+2. People's preferences.
+
+2.1. Collaboration preferences
+
+- Bias to action
+- Enjoyment of helping people
+- Fair credit assignment
+- Leadership (taking matters in your own hands)
+- Ownership (acting as an owner)
+- Reliability (helping others rely on them)
+
+2.2. Communication preferences
+
+- Approachability
+- Authenticity
+- Bias towards transparency
+- Gratefulness
+- Honesty
+- Humbleness
+- Receptiveness to feedback
+
+2.3. Learning preferences
+
+- Curiosity
+- Enjoyment of learning new skills
+- Enjoyment of learning new concepts
+- Enjoyment of diving into challenges
+
+2.4. Motivation
+
+- Determination (drive to overcome barriers to succeed)
+- Drive to set new challenges & self-improve
+
+2.5. Other preferences
+
+- Ethicality
+- Frugality
+- Openness to challenging own ideas
+- Positivity
+- Proactiveness
+- Pursuit of excellence (e.g. attention to detail)
+- Taking responsibility for failures
+
+
+
+Examples of important areas that are excluded from this list for now: 
+- domain-specific skills (e.g. engineering)
+- language skills (e.g. English grammar)
+- qualities more suitable for friendships (e.g. coming up with good jokes, ability to improve someone's mood)
+- knowledge of concepts and facts
+- memory
+- [TODO: think about abilities that help learn math]
