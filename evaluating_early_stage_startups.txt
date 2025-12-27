@@ -13,7 +13,7 @@ And here is the framework itself:
 
 1. Individual founders
 1.1. General work skills and preferences:
-     https://github.com/tilek > random > work_qualities.txt
+     https://github.com/tilek/knowledge_sharing/work_qualities.txt
 1.2. General intelligence
 1.3. Leadership skills
 1.4. Domain-specific skills
