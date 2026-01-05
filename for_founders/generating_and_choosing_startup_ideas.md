@@ -78,13 +78,13 @@ If you are brainstorming online, do what you can to make the physical and online
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Prioritizing ideas
+## Prioritizing ideas
 
 [TO BE ADDED LATER]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Validating ideas
+## Validating ideas
 
 After brainstorming and prioritizing ideas it's very important to validate your ideas.
 
