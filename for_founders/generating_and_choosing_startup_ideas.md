@@ -37,7 +37,7 @@ Examples: Apple, Microsoft, Airbnb, Stripe
 
 ## Suggested supplementary lists before brainstorming
 
-Before starting a startup I think it can help you to make the following lists:
+Before starting a startup I think it can help you to generate some of the following lists:
 
 - what are you good at? what are you world-class at? what are you strengths? what are your superpowers?
 - what areas / spaces / domains do you have expertise, insights, network, assets, or other resources in?
@@ -48,6 +48,10 @@ Before starting a startup I think it can help you to make the following lists:
 - what types of people do you know very deeply?
 - what types of people do you deeply enjoy helping or would likely enjoy helping?
   this is important because you will likely need to constantly talk to such people, deeply care about their problems and needs, and constantly update your worldview
+
+- what global, local, or foreign local companies inspire you? what is it that you love, admire, or respect about those companies?
+
+- how would you like the world to change?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
