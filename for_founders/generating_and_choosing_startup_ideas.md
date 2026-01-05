@@ -12,10 +12,22 @@ Some questions you can yourself:
   - Do you want the company to outlive you?
   - Is there a mission for a company that can server as an infinite goal and purpose?
   - In which cases you will consider selling your company a success? Are there any?
+- Are there better non-startup paths for my goals?  
+  For example, startup may not be the best or most reliable way to earn a certain amount of money in the period of 10 years.
 
 What to be aware of:
-- To succeed on a global scale you will likely need a double-digit number of years
-- It will likely consume a lot of your mindspace, you will likely think about it often in the shower, as you are trying to fall asleep, while you are on vacation etc
+
+1) If taken seriously, it's a long-term endevour
+- Unless you give up, you will likely work on this startup for a double-digit number of years. Please realize that it's a long-term endevour.
+- If you start a startup, it will likely consume a lot of your mindspace, you will likely think about it often in the shower, as you are trying to fall asleep, while you are on vacation etc
+- Instead of consciously starting an official company, you can casually work on interesting ideas or projects in parallel to your main work or main career pathway. If one of the ideas takes off, you can later decide whether to make it an offical company.
+
+2) There are a couple of legal things to think through around intellectual property being created
+- If someone will be working on an idea with you, please consider that later legally they can legally claim a part of your startup equity. I recommend to either sign standard legal spaperwork clearly stating who will own what intellectual property with the later company or be ready that each collaborater may request an equal share of your company.
+- If you are employed at another company in parallel, especially a tech company, they may claim your new company's intellectual property as your own.
+
+I think one of the best reasons to start a startup is if you "can't NOT start a startup". 😂😂😂
+If you really can't see yourself working for another company, being a freelancer, work in a government, or doing something else.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
