@@ -39,19 +39,27 @@ Examples: Apple, Microsoft, Airbnb, Stripe
 
 Before starting a startup I think it can help you to generate some of the following lists:
 
-- what are you good at? what are you world-class at? what are you strengths? what are your superpowers?
-- what areas / spaces / domains do you have expertise, insights, network, assets, or other resources in?
+1. Your strengths & resources
+- What are you good at? what are you world-class at? what are you strengths? what are your superpowers?
+- What areas / spaces / domains do you have expertise, insights, network, assets, or other resources in?
 
-- what do you enjoy doing?
-- what areas / spaces / domains are you curious or passionate about?
+2. What will keep you going and improving
+- What do you enjoy doing?
+- What areas / spaces / domains are you curious or passionate about?
 
-- what types of people do you know very deeply?
-- what types of people do you deeply enjoy helping or would likely enjoy helping?
-  this is important because you will likely need to constantly talk to such people, deeply care about their problems and needs, and constantly update your worldview
+3. What target audiences could you "marry" yourself into for the next double-digit number of years?
 
-- what global, local, or foreign local companies inspire you? what is it that you love, admire, or respect about those companies?
+This is very important because you will likely need to constantly talk to such people, deeply care about their problems and needs, and constantly update your worldview.
+- What types of people do you know very deeply?
+- What types of people do you deeply enjoy helping or would likely enjoy helping?
 
-- how would you like the world to change?
+4. Your "North Stars"
+- What global, local, or foreign local companies inspire you? what is it that you love, admire, or respect about those companies?
+
+5. Your vision for the world
+
+Startup with vision give enormous amount of energy and purpose to founders, employees, and anyone who will want your company to succeed.
+- How would you like the world to change?  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
