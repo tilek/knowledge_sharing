@@ -37,12 +37,12 @@ I see two main most common ways successful startups usually are founded:
 
 1) Idea First -> Co-Founders Later
 
-You start with a concrete idea and you go and find collaborators to help you with your specific idea
+You start with a concrete idea and you go and find collaborators to help you with your specific idea  
 Examples: Google, Facebook, Amazon, NVIDIA, SpaceX
 
 2) Co-Founders first -> Idea Later
 
-You have a good friends or a team you want to start a company with and you go through various ideas or pivots
+You have a good friends or a team you want to start a company with and you go through various ideas or pivots  
 Examples: Apple, Microsoft, Airbnb, Stripe
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
