@@ -79,26 +79,26 @@ Startup with vision give enormous amount of energy and purpose to founders, empl
 
 I think you can start generating ideas by generating a list of known and hypothethical problems:
 
-1) List personal problems and needs you would like a solution for
-2) List problems and needs you know or think target audiences you know about would like a solution for
-3) Start from technologies you are excited about it and generate a list of potential problems & needs they may be useful for
-4) What's something that may be just fun or interesting to try out?
+1) List personal problems and needs you would like a solution for  
+2) List problems and needs you know or think of target audiences you know about and list what you guess their problems and needs are  
+3) Start from technologies you are excited about it and generate a list of potential problems & needs they may be useful for  
+4) What's something that may be just fun or interesting to try out?  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## How to brainstorm socially
 
-If you already have co-founders, after you brainstorm separately, you can brainstorm together.
+If you already have co-founders, after you brainstorm separately, you can brainstorm together.  
 
-If you are brainstorming with other people, please never attack or criticize ideas. Always to try to help develop ideas.
-"Yes, and" rule from improv comedy teaches to ignore internal instinct to come up with what's wrong and help your collaborator to build on what's given no matter how "bad" or "difficult" the initial input was.
+If you are brainstorming with other people, please never attack or criticize ideas. Always to try to help develop ideas.  
+"Yes, and" rule from improv comedy teaches to ignore internal instinct to come up with what's wrong and help your collaborator to build on what's given no matter how "bad" or "difficult" the initial input was.  
 
-You can organize "bad ideas brainstorming" meetings with your co-founders with the aim to generate only bad ideas. It's a lot of fun!
-Always list all ideas, people should not become afraid of their ideas during any brainstorming. You can always filter out, deprioritize, or shelf what you think are truly bad ideas sometimes after the meeting.
-"Bad" ideas are often quickly convertable to very innovative and creative good ideas.
+You can organize "bad ideas brainstorming" meetings with your co-founders with the aim to generate only bad ideas. It's a lot of fun!  
+Always list all ideas, people should not become afraid of their ideas during any brainstorming. You can always filter out, deprioritize, or shelf what you think are truly bad ideas sometimes after the meeting.  
+"Bad" ideas are often quickly convertable to very innovative and creative good ideas.  
 
-I strongly recommend brainstorming in diverse and awesome physical spaces in person.
-If you are brainstorming online, do what you can to make the physical and online environment super comfortable and ideally fun and playful.
+I strongly recommend brainstorming in diverse and awesome physical spaces in person.  
+If you are brainstorming online, do what you can to make the physical and online environment super comfortable and ideally fun and playful.  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
