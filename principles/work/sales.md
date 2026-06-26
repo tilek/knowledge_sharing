@@ -4,6 +4,11 @@ This is a draft guide.
 - It is focused on selling a product or service to people who are likely to be content about buying it.
 - If you want to sell people who are likely not to enjoy your product/service, then this docuemnt is not for you.
 - It is for people who admire admire the product they are selling, if you don't admire the product I recommend finding another job.
+- Products I imagines when I wrote this guide:
+  - Educational courses (e.g. Outtalent)
+  - Gym membership (e.g. Crocus Fitness in Bishkek)
+  - Apartment (e.g. in Dubai, in Bishek, at Issyk-Kul)
+  - Clothing (e.g. Kenzo Paris in Dubai)
 
 Overall principles
 - You should know the product very deeply, how it already helped various types of people & concrete people & how it could help
