@@ -17,6 +17,7 @@ Overall principles
 - If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person in slightly different wording
 - Notice, analyze & remember exact language and wording people use
 - You must be calm & chill, not anxious or in a rush
+  (exception is when client is in a rush, then it is likely better to match their energy)
 
 Step-by-step
 
