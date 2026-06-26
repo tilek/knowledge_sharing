@@ -14,7 +14,7 @@ Overall principles
 - You should know the product very deeply, how it already helped various types of people & concrete people & how it could help
 - Never lie, mislead, or exaggerate - you can sell successfully without it and build stronger long-term reputation and relationships.
 - Never push something before you enough details about the person.
-- If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person in slightly different wording
+- If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person replacing some key words they said with your own synonyms
 - Notice, analyze & remember exact language and wording people use
 - You must be calm & chill, not anxious or in a rush
   (exception is when client is in a rush, then it is likely better to match their energy)
