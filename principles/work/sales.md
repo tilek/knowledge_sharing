@@ -42,6 +42,7 @@ Step-by-step
     - Understand those as granularly and as deeply as possible,
       it should usually be even better than they understood themselves before they met you
       - Ask several "why" questions in a row, break down complex terms into maximally granular sub-terms
+  - What are some other options they are considering and why?
   - What was their experience before? What was good and bad about it?
   - Repeat back the summary of what you understood to see if they want to add something important to the picture
   - Repeat it again very carefully until client confirms your understanding
