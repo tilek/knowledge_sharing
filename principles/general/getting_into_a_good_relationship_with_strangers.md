@@ -10,6 +10,7 @@ Smart people will notice it and it's just bad. 😂 These ideas are meant to wor
 - Is there something you like about the person?
   If yes, give a compliment, ideally based on something that is more important
   to them and not something they get constantly get compliments for.
+  Try to avoid rating/judging and focus on your feelings/emotions (e.g. "I think this hat suits so well" vs "I love how this hat suits you!")
 
 - Is there something you are curious about in this person?
   It works better if are curious in something they care a lot about.
