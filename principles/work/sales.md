@@ -5,7 +5,8 @@ It is focused on selling a product or service to people who are likely to be con
 If you want to sell people who are likely not to enjoy your product/service, then this docuemnt is not for you.
 
 Overall principles
-- Never lie, mislead, or exaggerate - you can sell successfully without it and build stronger long-term reputation and relationships
+- Never lie, mislead, or exaggerate - you can sell successfully without it and build stronger long-term reputation and relationships.
+- Never push something before you enough details about the person.
 - If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person in slightly different wording
 - Notice, analyze & remember exact language and wording people use
 - You must be calm & chill, not anxious or in a rush
@@ -14,7 +15,9 @@ Step-by-step
 
 - Make a great first impression.
 - Find something you like about the person and try to get the person to like you (see another guide for this).
-- Do quick pre-screening not to spend too much time on the rest of the sale.
+  Dig deep into this conversation without rushing into a sale but not to deep to raise trust issues or to waste time for an irrelevant customer.
+
+- Do quick pre-screening to avoid spending too much time on the rest of the sale.
   For example, if the customer came to you, you can check what they already know about the service and pricing (depending on the product/service and the situation, of course.)
 
 - (a) Make a longer qualification of the customer & (b) understand what they customer goals, needs, and pains are.
@@ -29,18 +32,18 @@ Step-by-step
       - Ask several "why" questions in a row, break down complex terms into maximally granular sub-terms
   - What was their experience before?
   - Repeat back the summary of what you understood to see if they want to add something important to the picture
-  - Repeat it again very carefully
+  - Repeat it again very carefully until client confirms your understanding
  
 - Explain honestly in general terms if you think the product/service matches them or note,
   - explain in which cases the product can match and in which it may not
   - have a discussion to try to identify the match
 
-- Answer all questions they have
+- Answer all questions they have & do the demo
   - where relevant do the demo always keeping in mind their unique situation,
     - during the demo show that you remember their unique situation & needs, it should never be a generic repeatable presentation
     - during the demo show the parts of the products you are personally most excited about
-      but it should not be too much of something they don't care much about
-  - notice where they show little attention and where they pay a lot of attention,
+      but it should not be too much of something they don't care much about ()
+  - constantly notice their reaction & engagement,
     skip the boring parts for them, dig into interesting parts
 
 - If they don't have any more questions, ask what they think and whether they feel the product matches them.
@@ -50,6 +53,7 @@ Step-by-step
 
 - Discuss those issues without any judging/blaming, without any rush. Honestly help them debate both scenarios.
   If the fear was irrational, they should be able to see it.
+  Whenever possible try to brainstorm a solution to a problem without appearing that you are just trying to push your product.
   Keep going through all issues one by one until you clear them all.
 
 - If no issues left and the product is expensive (e.g. 30% of their monthly income), ask them how much time they need to make a decision.
