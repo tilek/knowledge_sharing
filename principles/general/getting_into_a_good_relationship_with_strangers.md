@@ -1,7 +1,5 @@
 All of these tips make sense only if done *genuinely*. If you can't do them sincerely, please don't do it.
-Smart people will notice it and it's just bad. 😂
-
-These tips are meant to work for people that actually love people in general and by default.
+Smart people will notice it and it's just bad. 😂 These ideas are meant to work for people that actually love people in general and by default.
 
 - A genuine smile is one of the best things to make the best possible first impression
 
