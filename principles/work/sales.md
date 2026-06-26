@@ -11,13 +11,16 @@ This is a draft guide.
   - Clothing (e.g. Kenzo Paris in Dubai)
 
 Overall principles
-- You should know the product very deeply, how it already helped various types of people & concrete people & how it could help
+- You should know the product very deeply, how it already helped various types of people & concrete people
+
+Trust-killers & trust builders
 - Never lie, mislead, or exaggerate - you can sell successfully without it and build stronger long-term reputation and relationships.
-- Never push something before you enough details about the person.
-- If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person replacing some key words they said with your own synonyms
-- Notice, analyze & remember exact language and wording people use
-- You must be calm & chill, not anxious or in a rush
+- Never push your product before you have enough details about the person.
+- You must be calm & chill, never anxious/worried or in a rush
   (exception is when client is in a rush, then it is likely better to match their energy)
+- If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person replacing some key words they said with your own synonyms
+- Notice, analyze & remember exact language and wording people use; later use the same wording in relevant situations to show them that you heard them
+- Be careful about stepping into personal boundaries, you should notice if they get too uncomfortable and sometimes it may make sense to ask whether you can ask a personal question, a good sale is very likely to include personal questions
 
 Step-by-step
 
@@ -32,25 +35,26 @@ Step-by-step
   If customer looks very promising, you can do (b) first, if customer does not look promising do (a) first.
 
 - Deeply understand the client & their need
-  - How they learn about you and how they came to you
+  - How did they learn about you and how did they get to you?
   - Why did they come?
     - What are their long-term and short-term goals? Their dreams, drives & motivations?
     - Obstacles / pain points / fears they face?
-    - Understand those as granularly and as deeply as possible, it should usually be even better than they understood themselves before they met you
+    - Understand those as granularly and as deeply as possible,
+      it should usually be even better than they understood themselves before they met you
       - Ask several "why" questions in a row, break down complex terms into maximally granular sub-terms
-  - What was their experience before?
+  - What was their experience before? What was good and bad about it?
   - Repeat back the summary of what you understood to see if they want to add something important to the picture
   - Repeat it again very carefully until client confirms your understanding
  
 - Explain honestly in general terms if you think the product/service matches them or note,
   - explain in which cases the product can match and in which it may not
-  - have a discussion to try to identify the match
+  - have a discussion to try to genuinely identify the match
 
 - Answer all questions they have & do the demo
   - where relevant do the demo always keeping in mind their unique situation,
     - during the demo show that you remember their unique situation & needs, it should never be a generic repeatable presentation
     - during the demo show the parts of the products you are personally most excited about
-      but it should not be too much of something they don't care much about ()
+      but it should not be too much of something they don't care much about
   - constantly notice their reaction & engagement,
     skip the boring parts for them, dig into interesting parts
 
@@ -64,8 +68,13 @@ Step-by-step
   Whenever possible try to brainstorm a solution to a problem without appearing that you are just trying to push your product.
   Keep going through all issues one by one until you clear them all.
 
-- If no issues left and the product is expensive (e.g. 30% of their monthly income), ask them how much time they need to make a decision.
+- If no issues are left and the product still feels expensive for them, ask them how much time they need to make a decision.
   Offer them to have another meeting to discuss any remaining issues.
   If you built trust until this point and the product seems actually relevant, they should quickly agree to it.
   Schedule the meeting in front of them with their explicit consent.
   If you don't have their contacts ask for their contacts.
+
+- Ask them if they feel the product matches them.
+  If yes, ask them if they are ready to buy and if they are - proceed with the next steps.
+  If they need to pay separately from the current discussion get them to verbally commit to a payment,
+  so that they are more likely to fulfill their promise.
