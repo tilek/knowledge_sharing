@@ -1,10 +1,12 @@
-This is a draft document.
+This is a draft guide.
 
-It is not for desperate situations.
-It is focused on selling a product or service to people who are likely to be content about buying it.
-If you want to sell people who are likely not to enjoy your product/service, then this docuemnt is not for you.
+- It is not for "desperate" situations.
+- It is focused on selling a product or service to people who are likely to be content about buying it.
+- If you want to sell people who are likely not to enjoy your product/service, then this docuemnt is not for you.
+- It is for people who admire admire the product they are selling, if you don't admire the product I recommend finding another job.
 
 Overall principles
+- You should know the product very deeply, how it already helped various types of people & concrete people & how it could help
 - Never lie, mislead, or exaggerate - you can sell successfully without it and build stronger long-term reputation and relationships.
 - Never push something before you enough details about the person.
 - If you are unsure about something, try to double-check your undersatnding by repeating what you understood to the person in slightly different wording
